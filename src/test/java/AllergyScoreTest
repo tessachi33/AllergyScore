@@ -1,9 +1,9 @@
 import org.junit.*;
 import static org.junit.Assert.*;
 
-public class LeapYearTest {
+public class AllergyScore {
 
-  @Test
-  public void NAME() {
+
   }
+
 }
